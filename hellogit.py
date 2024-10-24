@@ -1,2 +1,1 @@
-print ("new ¡Hello Git!")
-print("¿Como esta el clima?")
+print ("new ¡Hello Github!")
